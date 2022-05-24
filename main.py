@@ -1,7 +1,6 @@
 from tkinter import Button
 from turtle import right
 import streamlit as st
-import pandas as pd
 import time
 
 st.title('Streamlit超入門')
